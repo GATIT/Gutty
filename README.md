@@ -2,6 +2,10 @@
 first repository
 
 ## メンバー
-*三上　大河
-*中平　有機
+*gutty
+*piyo56
+
+
+![画像の説明](https://github.com/GATIT/Gutty/wiki/images/Gutty-logo.png)
+
 
